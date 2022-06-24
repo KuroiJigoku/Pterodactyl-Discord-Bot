@@ -1,0 +1,21 @@
+{
+  "token": "OTIyNDc0Mzk1NDUxMTM4MDY4.GG3ITN.cmJjBndH91ISOXrZxZ2OcGPTnH-mFBhBrAWeDE",
+  "prefix": "!",
+  "panellink": "https://dev-panel.falixnodes.net",
+  "color": "RANDOM",
+  "statusname": "with the Pterodactyl Panel",
+  "statustype": "PLAYING",
+  "whitelist": ["810344379683569704"],
+  "cputype": 0,
+  "checkpower": 1,
+  "checksend": 1,
+  "sharedapi": null,
+  "sharedfocus": null,
+  "disablelinkscmd": 0,
+  "footername": "",
+  "footerimage": "",
+  "zerodiskmsg": "∞ MB",
+  "zerorammsg": "∞ MB",
+  "disableembedlinks": 0,
+  "beforeidmsg": "#"
+}

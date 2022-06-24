@@ -1,0 +1,4 @@
+power restart goto 4
+embed An error has occured while attempting to restart the server.
+stop
+embed Successfully restarted the server if not already.

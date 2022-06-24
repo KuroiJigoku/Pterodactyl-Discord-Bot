@@ -1,0 +1,3 @@
+# Hey! Welcome to custom commands.
+wait 1
+embed `%prefix%start` **-** Start the focused server.\n`%prefix%stop` **-** Stop the focused server.\n`%prefix%restart` **-** Restart the focused server.\n`%prefix%kill` **-** Kill the focused server.\n`%prefix%say` **-** Send a `say <message>` command to the focused server.

@@ -1,0 +1,8 @@
+ifargs goto 4
+embed Incorrect usage. Please use `%prefix%say <message>` instead.
+stop
+send say %args%
+- else 8
+embed Successfully excuted the command.
+stop
+embed An error has occured while attempting to send a command to the server.

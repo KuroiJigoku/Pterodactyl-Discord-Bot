@@ -1,0 +1,3 @@
+say Check the console.
+# ^ You can replace "say" with "msg".
+log Custom Command > Hey! Someone ran the command %prefix%log so this message popped up in the console.

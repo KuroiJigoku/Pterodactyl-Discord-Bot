@@ -1,0 +1,1 @@
+embed You can set a title of an embed! | Make sure you know that a embed title is limited to 256 characters.\nAlso, make sure a embed description is limited to 2048 characters.

@@ -1,0 +1,4 @@
+power start goto 4
+embed An error has occured while attempting to turn on the server.
+stop
+embed Successfully started the server if not already.

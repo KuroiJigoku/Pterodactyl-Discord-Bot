@@ -1,0 +1,4 @@
+power stop goto 4
+embed An error has occured while attempting to turn off the server.
+stop
+embed Successfully stopped the server if not already.
